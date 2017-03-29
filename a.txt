@@ -2,3 +2,4 @@ test stage
 after stage
 ready to commit
 tom is a cat
+lily is a girl
