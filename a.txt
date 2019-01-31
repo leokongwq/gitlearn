@@ -7,4 +7,5 @@ add test fetch info
 add git pull command
 test reset
 ddddeeeeee
-ddddd
+1
+2
